@@ -1,0 +1,9 @@
+export 'package:new_fixera/Model/ForgotModel/ForgotEmailModel.dart';
+export 'package:new_fixera/Model/ForgotModel/ForgotResetPasswordModel.dart';
+export 'package:new_fixera/Model/ContractorModel/ContractorPageModel.dart';
+export 'package:new_fixera/Model/SignUpModel/ProfessionalInfoModel.dart';
+export 'package:new_fixera/Model/HomePageModel/HomeModel.dart';
+export 'package:new_fixera/Model/LoginModel/LoginModel.dart';
+export 'package:new_fixera/Model/MarketPageModel/OpenJobsModel.dart';
+export 'package:new_fixera/Model/LogoutModel/LogoutModel.dart';
+export 'package:new_fixera/Model/SignUpModel/ProfessionalInfoModel.dart';

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>729087835525-v56ru009raojiqqtqijuv1ufv934dahn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.729087835525-v56ru009raojiqqtqijuv1ufv934dahn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>729087835525-82h2tg0v3vc8pdq6jttv6tr06i659f79.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKE9gsr8-yZcTIYoPQiZsPs6T0HTe2XnA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>729087835525</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appbd.filmfriendzy</string>
+	<key>PROJECT_ID</key>
+	<string>film-friendzy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>film-friendzy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:729087835525:ios:3b5d1313e6875c8be558ec</string>
+</dict>
+</plist>

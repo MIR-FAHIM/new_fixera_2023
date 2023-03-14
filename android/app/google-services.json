@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1001225629825",
+    "project_id": "fix-era",
+    "storage_bucket": "fix-era.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001225629825:android:e29fdf9321ba48947c1d80",
+        "android_client_info": {
+          "package_name": "com.fixera.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001225629825-crr2kv39epdrgpst1eqmm07anoqrgp5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fixera.app",
+            "certificate_hash": "bf778771b9123391693410cc9a114214bbbe5e89"
+          }
+        },
+        {
+          "client_id": "1001225629825-8kafu5t08mtj7hhaipgae6ch040432ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH1ghzD97wXasrq1fhOZK_9AySWZ046yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001225629825-8kafu5t08mtj7hhaipgae6ch040432ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
